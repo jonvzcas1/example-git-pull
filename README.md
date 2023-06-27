@@ -1,2 +1,2 @@
-# my-second-repo
-Para prueba con token
+# Repo to practice git pull
+Repo to practice git pull
